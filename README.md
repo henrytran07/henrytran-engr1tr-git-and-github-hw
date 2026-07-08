@@ -17,8 +17,8 @@ Your job is to get the webpage back to its intended state. To do this:
 2. Clone your fork to your local machine -- Completed
 3. Create a new branch to work on your changes -- Completed
 4. Fix all the bugs you find so the page matches the description above -- Completed
-5. Merge your `fix` branch back into `main`
-6. Push your changes to GitHub and submit your repository link
+5. Merge your `fix` branch back into `main` -- Completed 
+6. Push your changes to GitHub and submit your repository link -- Completed 
 
 ## Submission
 
