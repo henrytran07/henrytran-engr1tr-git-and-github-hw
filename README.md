@@ -13,12 +13,10 @@ Unfortunately, you quickly realize that your group has made several mistakes alo
 
 Your job is to get the webpage back to its intended state. To do this:
 
-1. Fork this repository by clicking the "Fork" button at the top right 
-   of this page on GitHub. This creates your own personal copy of the repo 
-   on your GitHub account.
-2. Clone your fork to your local machine using `git clone <your-fork-url>`
-3. Create a new branch to work on your changes
-4. Fix all the bugs you find so the page matches the description above
+1. Fork this repository -- Completed
+2. Clone your fork to your local machine -- Completed
+3. Create a new branch to work on your changes -- Completed
+4. Fix all the bugs you find so the page matches the description above -- Completed
 5. Merge your `fix` branch back into `main`
 6. Push your changes to GitHub and submit your repository link
 
